@@ -1,0 +1,17 @@
+footer {
+   position: relative;
+}
+
+footer a {
+   display: inline-block;
+}
+footer div {
+   display: inline-block;
+   position: absolute;
+   top: 75px;
+   margin-left: 50px;
+   font-size: 22px;
+   font-family:'Open Sans';
+   font-weight: bold;
+   color: red;
+}
